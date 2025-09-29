@@ -6,4 +6,4 @@ Currently exploring: HTML, CSS, JavaScript, React, Node.js, SQL, APIs, Git & Git
 <a href="https://www.linkedin.com/in/d%C3%A9bora-arruda-26781b287/#main-content" target="blank"><img align="center" src="(https://www.linkedin.com/in/d%C3%A9bora-arruda-26781b287/#main-content)" alt="" height="30" width="40"/></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deborarruda-web-developer&theme=radical)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=deborarruda-web-developer&theme=radical" alt="GitHub Streak" /></a>
+
