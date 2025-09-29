@@ -1,5 +1,9 @@
-## Hi there 👋
+Hi, I’m Débora 👋
+Pharmacist turned aspiring web developer and Systems Analysis & Development student. I love learning new tech, building projects, and sharing knowledge.
 
+Currently exploring: HTML, CSS, JavaScript, React, Node.js, SQL, APIs, Git & GitHub.
+
+<a href="seu link" target="blank"><img align="center" src="(https://www.linkedin.com/in/d%C3%A9bora-arruda-26781b287/#main-content)" alt="" height="30" width="40"/></a>
 <!--
 **deborarruda-web-developer/deborarruda-web-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
