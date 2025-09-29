@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=25&duration=4000&pause=1000&color=7C0649E3&background=000000F8&center=true&vCenter=true&width=435&lines=Web+Developer+VS+Former+Pharmacist)](https://git.io/typing-svg)
+
 Hi, I’m Débora 👋
 Pharmacist turned aspiring web developer and Systems Analysis & Development student. I love learning new tech, building projects, and sharing knowledge.
 
